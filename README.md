@@ -25,13 +25,10 @@ The dataset for this analysis is sourced from the *Chicago Open Data Portal, foc
 ### Part 1: Data Extraction and Staging
 - *Data Loading*: Extract data from the Chicago Open Data portal and load it into a staging area in Azure SQL.
   
-  ![Dimensions Model Loading](https://github.com/RutujaMore1706/Chicago-Food-Inspection-Data-Analysis/blob/main/Data%20Modeling/Chicago_Chicago_CommonModel%20(Team-17)/Load_Dim.png)
+  ![counts](https://github.com/RutujaMore1706/Chicago-Food-Inspection-Data-Analysis/blob/main/Data%20staging/Chicaago%20-%20Part3/Screenshots/No.Of%20Records.png)
   
-  ![Facts Model Loading](https://github.com/RutujaMore1706/Chicago-Food-Inspection-Data-Analysis/blob/main/Data%20Modeling/Chicago_Chicago_CommonModel%20(Team-17)/Load_Fact.png)
-  
-  ![Fact Table Staging](https://github.com/RutujaMore1706/Chicago-Food-Inspection-Data-Analysis/blob/main/Data%20staging/Chicaago%20-%20Part3/Screenshots/Load_Chicago_Fact.png)
+  ![Facts Model Loading](https://github.com/RutujaMore1706/Chicago-Food-Inspection-Data-Analysis/blob/main/Data%20staging/Chicaago%20-%20Part3/Screenshots/Load_Chicago_Fact.png)
 
-  
 - *Data Profiling*: Perform data profiling to validate structure, data types, and completeness futhuremore staging data.
 
   ![Image](https://github.com/RutujaMore1706/Chicago-Food-Inspection-Data-Analysis/blob/main/Data%20staging/Chicaago%20-%20Part3/Screenshots/scd_chicago.png)
